@@ -1,5 +1,5 @@
 # Node JS Zoom Clone
-## App link : https://pinakee-zoom-clone-app.herokuapp.com/f037ce0a-7c94-45da-979d-218335135326
+## App link (Best view on desktop only currently) : https://pinakee-zoom-clone-app.herokuapp.com/f037ce0a-7c94-45da-979d-218335135326
 ### Working :- Open this link and send this link to your friend as well. 
 
 ### Description
